@@ -65,11 +65,11 @@
         <svg-icon icon-class="logout" />
         {{ $t('library.userProfileMenu.logout') }}
       </div>
-      <hr />
+      <!--<hr />
       <div class="item" @click="toGitHub">
         <svg-icon icon-class="github" />
         {{ $t('nav.github') }}
-      </div>
+      </div>-->
     </ContextMenu>
   </div>
 </template>
