@@ -21,7 +21,7 @@ module.exports = {
     },
   },
   pwa: {
-    name: 'Sea Music',
+    name: 'Ocean Music',
     iconPaths: {
       favicon32: 'img/icons/favicon-32x32.png',
     },
